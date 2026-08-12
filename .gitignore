@@ -1,0 +1,11 @@
+
+# Large datasets - keep locally
+data/raw/raw_analyst_ratings.csv
+data/raw/raw_partner_headlines.csv
+data/raw/analyst_ratings_processed.csv
+
+# Python
+.venv/
+.env
+__pycache__/
+*.pyc
